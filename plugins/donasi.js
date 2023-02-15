@@ -20,7 +20,7 @@ handler.help = ['donasi']
 
 handler.tags = ['info']
 
-handler.command = /^(donasi|donate)$/i
+handler.command = /^(donasi|dns)$/i
 
 
 export default handler
